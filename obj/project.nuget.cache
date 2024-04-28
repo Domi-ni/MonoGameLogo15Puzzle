@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKK+qNsCPByJeq32cZuAo9y2DPR1OwYcM0r7MnkgP/1nXSi7SyFin5QD4+a5CpQF5/nbqif4J/FTY31IXyytDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mtrol\\OneDrive\\Área de Trabalho\\MonoGameLogo15Puzzle\\Challenge005.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtrol\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\mtrol\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
