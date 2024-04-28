@@ -1,18 +1,5 @@
 namespace Challenge005;
 
-/* RULES
-https://en.wikipedia.org/wiki/15_Puzzle
-*/
-
-/* ANALYSIS
- * Board
-   * Tiles
-   * Shuffling
-   * Empty tile
- * Tile movement
- - Winning condition
-*/
-
 public class GameManager
 {
     private readonly Board _board;
